@@ -1,0 +1,74 @@
+img{
+  width: 400px;
+
+}
+.Nolonwabo{
+  float: left;
+  padding-right: 150px;
+  padding-bottom: 50px;
+}
+.intro{
+  display: block;
+}
+body{
+  background-color: pink;
+}
+.city{
+  float: left;
+}
+.city img{
+  width: 400px;
+float: left;
+margin-left: 12em;
+}
+.language{
+float: left;
+font-size: 20px;
+font-style: italic;
+}
+.table{
+text-align: center;
+margin: auto;
+}
+.rotate {
+  transform: rotate(90deg);
+  padding-bottom: 75px;
+}
+.historic{
+  float: left;
+  font-size: 40px;
+  font-style: italic;
+  padding-top: 50px;
+  padding-left: 20px;
+}
+.Robinson{
+  font-size: 20px;
+  float: left;
+  font-style: normal;
+  display: block;
+}
+.Rob{
+  display: block;
+  font-size: 20px;
+}
+.clock{
+  padding-top:300px;
+  float: right;
+}
+.rtt{
+  transform: rotate(90deg);
+}
+.Vic{
+  float: left;
+  font-size: 20px;
+  display: block;
+  padding-top: 200px;
+}
+.African{
+  padding-top: 650px;
+}
+.Place{
+  font-size: 20px;
+  float: right;
+  padding-bottom: 150px;
+}
