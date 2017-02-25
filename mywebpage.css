@@ -11,8 +11,8 @@ img{
   display: block;
 }
 body{
-  background-color: pink;
-}
+  background-image: url(images/lulo.jpg);
+  }
 .city{
   float: left;
 }
@@ -31,18 +31,18 @@ text-align: center;
 margin: auto;
 }
 .rotate {
-  transform: rotate(90deg);
+  transform: rotate(360deg);
   padding-bottom: 75px;
 }
 .historic{
   float: left;
   font-size: 40px;
   font-style: italic;
-  padding-top: 50px;
-  padding-left: 20px;
+  padding-top: 75px;
+  padding-right: 110px;
 }
 .Robinson{
-  font-size: 20px;
+  font-size: 40px;
   float: left;
   font-style: normal;
   display: block;
@@ -50,25 +50,69 @@ margin: auto;
 .Rob{
   display: block;
   font-size: 20px;
+  float: right;
 }
 .clock{
-  padding-top:300px;
+  font-size: 40px;
   float: right;
+  font-style: normal;
+  display: block;
 }
-.rtt{
-  transform: rotate(90deg);
-}
-.Vic{
+.tower{
+  display: block;
   float: left;
   font-size: 20px;
+}
+ul.list{
+  font-size:50% ;
+  float: left;
+  width:50%;
+  position: relative;
+  left: -500px;
+  margin-top: -170px;
+}
+img.rtt {
+  float:right;
+  width: 60%;
+  position: relative;
+  right:320px;
+
+}
+h7 {
+  float: left;
+  position: relative;
+  left: -60px;
+}
+.place{
+  font-size: 40px;
+  float: left;
+  font-style: normal;
   display: block;
-  padding-top: 200px;
+  clear: both;
+  position: relative;
+  right: -40px;
 }
-.African{
-  padding-top: 650px;
-}
-.Place{
+.trading{
+  display: block;
   font-size: 20px;
   float: right;
-  padding-bottom: 150px;
+}
+.trade {
+  margin-top: 5em;
+}
+ul.lisst{
+  font-size:90% ;
+  float: right;
+  width:50%;
+  position: relative;
+  margin-top: -250px;
+  position: relative;
+  right: 400px;
+
+}
+h8{
+  float: right;
+  position: relative;
+  right: 350px;
+  margin-top: 5em;
 }
