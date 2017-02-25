@@ -57,6 +57,7 @@ margin: auto;
   float: right;
   font-style: normal;
   display: block;
+  padding-left: 50px;
 }
 .tower{
   display: block;
